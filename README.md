@@ -1,0 +1,1 @@
+# Checking-N-double-Exist-or-not-
